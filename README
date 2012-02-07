@@ -1,0 +1,19 @@
+Hello World, this is my first git-repo. Thank you.
+
+** AUTHOR: Ahmad Mukoshy
+** PROJECT: A simple WHMCS module for .tk Domains (Requires DomainShare Account).
+** VERSION: 0.1
+
+1) Copy the folder "tkshare" to your {WHMCS-Dir}/modules/registrars/
+2) Go go your WHMCS Admin Area
+3) Then Setup >> Product/Services >> Domain Registrars
+4) Select TKShare and Activate
+5) Enter your DomainShare account details and you're Live!
+
+Go to your domain prices and add .tk, select TKShare as the registry and set your pricing!
+
+This version only allows you to register/renew and provide access to domain transfer key 
+with a DOT.TK DomainShare account. No domain forwarding or nameservers update yet!
+
+********************* ENJOY ***********************
+NOTE: If you are a developer, you can improve on it; the source codes are open!
